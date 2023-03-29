@@ -19,6 +19,7 @@ public class LAB1 {
 //        System.out.println(1.0/0);
 
 //        throw
-        throw new ArithmeticException("Divisor cannot be zero");
+            throw new ArithmeticException("Divisor cannot be zero");
+
     }
 }
